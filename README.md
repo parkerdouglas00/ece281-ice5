@@ -8,6 +8,18 @@ Tested on Windows 11.
 
 ---
 
+## Documentation Statement
+
+No outside help received.
+
+---
+
+## Simulation Waveform
+
+![Waveform screenshot](SimulationWaveform.png)
+
+---
+
 ## Build the project
 
 You can simply open `elevatorController.xpr` and Vivado will do the rest!
